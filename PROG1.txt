@@ -1,0 +1,5 @@
+    Banner - https://dle.rae.es/banner 
+    Big data - https://dle.rae.es/big%20data?m=form
+    Biocapacidad - https://dle.rae.es/biocapacidad?m=form
+    Chundachunda - https://dle.rae.es/chundachunda?m=form
+    Cookie - https://dle.rae.es/cookie?m=form
